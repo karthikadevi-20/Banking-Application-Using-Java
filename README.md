@@ -22,23 +22,6 @@ This is a console-based Banking Management System developed in Java, demonstrati
 
 ---
 
-## 🏗️ Project Structure
-
-BankApplicationSystem/
-├── src/
-│ ├── Entity/
-│ │ ├── Transaction.java
-│ │ └── User.java
-│ ├── Repository/
-│ │ └── UserRepository.java
-│ ├── Service/
-│ │ └── UserService.java
-│ └── Main/
-│ └── Main.java
-
-
----
-
 ## 🛠️ Technologies Used
 
 - Java
